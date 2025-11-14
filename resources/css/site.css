@@ -1,0 +1,5 @@
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; color: #333; }
+.card { border-radius: 6px; }
+.card .card-body { padding: 1.35rem; }
+.navbar .nav-link { color: #6c757d; }
+footer small { color: #6c757d; }
